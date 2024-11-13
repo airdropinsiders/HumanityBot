@@ -1,0 +1,19 @@
+{
+    "name": "Humanity-bot",
+    "version": "1.0.0",
+    "description": "A bot for blockchain reward claiming and account management",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "chalk": "^5.2.0",
+      "web3": "^1.8.2",
+      "fs": "0.0.1-security",
+      "path": "0.12.7"
+    },
+    "devDependencies": {},
+    "author": "AirdropInsiderID",
+    "license": "MIT"
+  }
