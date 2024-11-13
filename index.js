@@ -20,7 +20,7 @@ function displayHeader() {
        ██║██║ ╚████║███████║██║██████╔╝███████╗██║  ██║    
        ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝    
        `)
-    console.log(chalk.yellow('  📢  Telegram Channel: https://t.me/ksqxszq'));
+    console.log(chalk.yellow('  📢  Telegram Channel: https://t.me/AirdropInsiderID'));
     console.log();  // Add extra empty line for separation
 }
 
