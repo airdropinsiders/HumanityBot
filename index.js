@@ -4,6 +4,7 @@ import fs from 'fs';
 import path from 'path';
 import config from './config.js';
 
+// Display header information
 function displayHeader() {
     console.log(`
         █████╗ ██╗██████╗ ██████╗ ██████╗  ██████╗ ██████╗ 
@@ -124,3 +125,4 @@ async function main() {
 }
 
 main().catch(error => console.error(chalk.red('Error in main program execution:', error)));
+
